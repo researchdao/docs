@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Docs | Reseach DAO',
+  title: 'Reseach DAO Docs',
   tagline: 'Research DOA Documentation',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',

@@ -32,7 +32,7 @@ To be eligible for funding, you must meet the following criteria:
     1. In the field of **privacy**:
         1. The Privacy Enhancing Technologies Symposium (PETS)
 
-1. **Be on-topic**. Your paper must fall within the field of blockchain science and preferably within our [13 research directions].
+1. **Be on-topic**. Your paper must fall within the field of blockchain science and preferably within our [13 research directions](/directions).
 
 1. **Have no other funding**. We might cover your trip fully or partially. You cannot have other sources of funding for the portions of your expenses that we cover.
 

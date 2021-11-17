@@ -13,6 +13,8 @@ module.exports = {
       respectPrefersColorScheme: false,
     },
     navbar: {
+      hideOnScroll: true,
+      style: 'dark',
       title: 'Research DAO',
       logo: {
         alt: 'Research DAO Logo',

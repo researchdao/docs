@@ -42,7 +42,7 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/researchdao/docs/edit/master/',
+            'https://github.com/researchdao/docs/edit/main/',
           showLastUpdateTime: true,
         },
         theme: {

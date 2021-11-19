@@ -5,6 +5,16 @@
  * work well for content-centric websites.
  */
 
+@font-face {
+  font-family: "Menlo Regular";
+  src: url('../../static/fonts/Menlo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "SF UI Medium";
+  src: url('../../static/fonts/SF-UI-Medium.ttf') format('truetype');
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #25c2a0;
@@ -18,14 +28,19 @@
   --ifm-code-font-size: 95%;
   --ifm-link-color: #4299e1;
   --ifm-color-primary: #4299e1;
+  --ifm-font-family-base: 'SF UI Medium';
+  --ifm-font-family-monospace: 'Menlo Regular';
 }
 
 .navbar {
-  --ifm-navbar-background-color: var(--ifm-color-primary-dark)
+  --ifm-navbar-background-color: var(--ifm-color-primary-dark);
 }
 
 .footer {
-  --ifm-footer-background-color: var(--ifm-color-primary-dark)
+  --ifm-footer-background-color: var(--ifm-color-primary-dark);
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 1.125rem;
+  color: #A0AEC0;
 }
 
 .menu__link--active {

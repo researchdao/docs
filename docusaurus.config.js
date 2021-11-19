@@ -33,6 +33,12 @@ module.exports = {
       style: 'dark',
       copyright: `© ${new Date().getFullYear()} Research DAO`,
     },
+    announcementBar: {
+      id: 'fc22',
+      content: 'Now funding travel for students accepted to present at FC22. [<a rel="noopener noreferrer" href="/eligibility">Submit application</a>]',
+      backgroundColor: '#fafbfc',
+      textColor: '#091E42',
+    },
   },
   presets: [
     [

@@ -34,7 +34,7 @@ You must book your travel and pay for it with your own funds. We will reimburse 
 1. The receipts for your travel expenses. Your actual travel expenses must be close to your initial estimate.
 1. Your cryptocurrency address, in our blockchain of choice, where you will receive the funds.
  
-Please submit your reimbursement request using our [student travel reimbursement form]. The reimbursement request must be made **at most one month** after the end of the conference.
+Please submit your reimbursement request using our [student travel reimbursement form](https://forms.gle/HMbU7cELqYBrhz9m6). The reimbursement request must be made **at most one month** after the end of the conference.
 
 We will reimburse you within one month of receiving your request. We will reimburse you in cryptocurrency, based on the fiat prices during the time of reimbursement. We will e-mail you when we have initiated the reimbursement transaction.
 

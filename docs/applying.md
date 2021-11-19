@@ -20,4 +20,4 @@ Please submit a proposal with the following details:
     1. Hotel.
     1. Visa costs.
 
-To submit a proposal, please [send us an email](mailto:apply@researchdao.io?subject=Application) with the aforementioned information. Please make sure that you have read the ['receiving funding' instructions](/receiving) before submiting a funding application.
+To submit a proposal, please fill in the [Travel Grant Application Form](https://forms.gle/7vK1SQadnUzugK25A). Please make sure that you have read the ['receiving funding' instructions](/receiving) before submiting a funding application.

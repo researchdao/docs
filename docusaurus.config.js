@@ -35,7 +35,7 @@ module.exports = {
     },
     announcementBar: {
       id: 'fc22',
-      content: 'Now funding travel for students accepted to present at FC22. [<a rel="noopener noreferrer" href="/eligibility">Submit application</a>]',
+      content: 'Now funding travel for students accepted to present at FC22. [<a rel="noopener noreferrer" href="/eligibility">Apply</a>]',
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
     },

@@ -23,4 +23,4 @@ As a first step to achieving our mission, we are proud to support the peer-revie
 
 We are currently offering travel funding for undergraduate, graduate, and PhD students to participate and present their papers in academic conferences.
 
-If you are interested in receiving funding from the Research DAO, [consult our page on reveiving funding](/eligibility).
+If you are interested in receiving funding from the Research DAO, [consult our page on receiving funding](/eligibility).

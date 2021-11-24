@@ -10,8 +10,8 @@ The DAO operates via multiple smart contracts in several blockchains. They are d
 
 The Research DAO's current governors are:
 
-1. Sebastien Guillemot (dcSpark)
 1. Zeta Avarikioti (IST Austria)
+1. Sebastien Guillemot (dcSpark)
 1. Dionysis Zindros (Stanford University)
 1. *The names of the rest of the governors will be disclosed soon*.
 

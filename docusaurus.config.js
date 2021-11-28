@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Reseach DAO Docs',
-  tagline: 'Research DOA Documentation',
+  tagline: 'Research DAO Documentation',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',

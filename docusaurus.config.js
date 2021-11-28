@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Reseach DAO Docs',
   tagline: 'Research DAO Documentation',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.researchdao.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.

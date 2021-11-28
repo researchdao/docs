@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://docs.researchdao.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'researchdao',
+  projectName: 'docs',
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',

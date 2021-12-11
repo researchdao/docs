@@ -11,7 +11,9 @@ The DAO operates via multiple smart contracts in several blockchains. They are d
 The Research DAO's current governors are:
 
 1. Zeta Avarikioti (IST Austria)
+1. Foteini Baldimtsi (George Mason University)
 1. Sebastien Guillemot (dcSpark)
+1. Angel Leon (FrostWire)
 1. Andrew Miller (UIUC)
 1. Dionysis Zindros (Stanford University)
 1. *The names of the rest of the governors will be disclosed soon*.

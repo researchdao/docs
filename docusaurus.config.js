@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Reseach DAO Docs',
-  tagline: 'Research DOA Documentation',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Research DAO Documentation',
+  url: 'https://docs.researchdao.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'researchdao',
+  projectName: 'docs',
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
@@ -35,7 +35,7 @@ module.exports = {
     },
     announcementBar: {
       id: 'fc22',
-      content: 'Now funding travel for students accepted to present at FC22. [<a rel="noopener noreferrer" href="/eligibility">Submit application</a>]',
+      content: 'Now funding travel for students accepted to present at FC22. [<a rel="noopener noreferrer" href="/eligibility">Apply</a>]',
       backgroundColor: 'rgb(66, 153, 225)',
       textColor: 'white',
     },
@@ -45,6 +45,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'content',
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:

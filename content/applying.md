@@ -4,7 +4,7 @@ title: Applying
 sidebar_label: Applying
 ---
 
-To apply for funding, you must submit a proposal yourself, after your paper has been accepted at a conference, and at least two months prior to the conference date. We will respond to your request within one month. The earlier you apply, the better.
+To apply for funding, you must submit a proposal yourself, after your paper has been accepted at a conference. The earlier you apply, the better.
 
 Please submit a proposal with the following information:
 

@@ -20,5 +20,10 @@ module.exports = {
       label: 'Governance',
       items: ['constitution', 'contracts', 'meetings', 'conflicts', 'values'],
     },
+    {
+      type: 'category',
+      label: 'MISC',
+      items: ['attributions'],
+    },
   ],
 };

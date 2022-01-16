@@ -16,10 +16,8 @@ The decision to approve or reject your proposal rests solely with the DAO govern
 
 If you are approved for travel funding, you must acknowledge us in the following ways:
 
-1. On the first page of your paper, include a footnote next to your name with the following text:
+1. Include the following text, or similar, in the acknowledgements of the paper:
     *This paper was partially funded by [funding partner] through the Research DAO.*
-
-1. Alternatively, you can include the funding partner as your second affiliation. For example, if you are a student at Stanford University and the funding partner is Harmony, you can write *Stanford University* and *Harmony* as your affiliation. In this case, you must mention the Research DAO in the acknowledgements.
 
 1. On the first (title) and last (thank you / questions) slide of your presentation, include the funding partner and the Research DAO logos.
 

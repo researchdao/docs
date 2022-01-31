@@ -10,7 +10,7 @@ Board meetings take place every second Thursday of the month, at 9:00am Pacific 
 
 Information about the next meeting will be announced soon.
 
-The board meetings are open for anyone to audit, but all decisions are left to the governors and are final. Meeting minutes are kept and published for every meeting for transparency purposes. For the minutes of previous board meetings, we plan on createing a *meeting archive* page soon.
+The board meetings are open for anyone to audit, but all decisions are left to the governors and are final. Meeting minutes are kept and published for every meeting for transparency purposes. For the minutes of previous board meetings, we plan on creating a *meeting archive* page soon.
 
 We prefer to decide on proposals by consensus. Voting is used as a last resort in case of dispute.
 

@@ -1,7 +1,7 @@
 ---
 id: conflicts
 title: Conflicts of Interest
-sidebar_label: Conflits of Interest
+sidebar_label: Conflicts of Interest
 ---
 
 To ensure the impartiality of the DAO, a governor is barred from submitting a proposal to the Research DAO to fund their own work. No governor can receive any funding from the DAO. The participation of governors in board meetings is voluntary and uncompensated.

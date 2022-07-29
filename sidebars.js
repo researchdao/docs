@@ -8,7 +8,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Receiving Funding',
-      items: ['eligibility', 'applying', 'receiving'],
+      items: ['eligibility', 'applying', 'receiving', 'grant_recipients'],
     },
     {
       type: 'category',

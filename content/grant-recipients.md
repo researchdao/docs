@@ -1,5 +1,5 @@
 ---
-id: grant_recipients
+id: grant-recipients
 title: Past Grant Recipients
 sidebar_label: Past Grant Recipients
 ---

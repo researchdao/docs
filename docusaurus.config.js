@@ -33,6 +33,12 @@ module.exports = {
       style: 'dark',
       copyright: `© ${new Date().getFullYear()} Research DAO`,
     },
+    announcementBar: {
+      id: 'grant-suspension',
+      content: 'We are suspending our travel grants program until further notice while we seek out new funding for the Research DAO.',
+      backgroundColor: 'rgb(153, 0, 57)',
+      textColor: 'white',
+    }
   },
   presets: [
     [
